@@ -1,0 +1,7 @@
+build/
+build-*/
+third_party/
+.cache/
+*.wav
+!tests/fixtures/*.wav
+.DS_Store
